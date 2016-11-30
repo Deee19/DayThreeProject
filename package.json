@@ -1,0 +1,28 @@
+{
+  "name": "daythreeproject",
+  "version": "1.0.0",
+  "description": "Bootcamp project for day three\r -Binary search\r -Missing value\r -Front end",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deee19/DayThreeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deee19/DayThreeProject/issues"
+  },
+  "homepage": "https://github.com/Deee19/DayThreeProject#readme"
+}
