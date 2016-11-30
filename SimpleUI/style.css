@@ -1,0 +1,88 @@
+body {
+  background: url(mountain.jpg) no-repeat;
+  background-size: cover;
+  color: #fff;
+  font-weight: bold;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#main-text {
+  text-align: center;
+  clear: both;
+  margin-top: 200px;
+  margin-bottom: 50px;
+  letter-spacing: 3px;
+}
+
+#big-text {
+  font-size: 150px;
+  font-family: fantasy;
+  margin-top: auto;
+}
+
+#heading {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#search {
+  border: 0px;
+  background: none;
+  color: white;
+}
+
+#logo {
+  float: left;
+  margin-left: 450px;
+}
+
+.searchform {
+  float: left;
+  margin-bottom: 100px;
+  color: white;
+}
+
+.nav {
+  float: right;
+  font-size: 16px;
+  color: white;
+  list-style: none;
+  padding: 10px;
+}
+
+.nav li {
+  float: left;
+  margin: 10px;
+}
+
+.nav li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.center {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.btnexplore {
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.fbbutton {
+  background: #2c5ba5;
+  border-color: #2c5ba5;
+}
+
+.inner-center {
+  margin-top: 100px;
+  text-align: center
+}
